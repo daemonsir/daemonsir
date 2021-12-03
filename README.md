@@ -1,8 +1,29 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=daemonsir&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!--
+**daemonsir/daemonsir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 你好，世界 👋
+Here are some ideas to get you started:
 
-- :orange_book: Focusing on PHP & JAVA
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+🌱 I’m currently learning ...
+
+![HuangSong's github stats](https://github-readme-stats.vercel.app/api?username=daemonsir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
+
+## 我的技术成长之路
+
+⚡[看云](http://checklist.hsrust.com/)
+
+## 联系我
+
+📫邮箱：hs96.cn@gmail.com
+
+💬企鹅：4612006
+
